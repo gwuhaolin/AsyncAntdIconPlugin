@@ -1,5 +1,5 @@
 {
-  "name": "AsyncAntdIconPlugin",
+  "name": "async-antd-icon-plugin",
   "description": "Webpack异步分割Antd Icon插件",
   "version": "1.0.0",
   "dependencies": {
